@@ -6,12 +6,18 @@ import Contact from "./pages/Contact";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Wrapper from "./components/Wrapper";
+import Image from "./images/13602.jpg";
+import Header from "./components/Header";
+
 
 function App() {
   return (
     <Router>
       <div>
         <Navbar />
+        <Header backgroundImage={Image}>
+          <h1>Stuart Wong</h1>
+        </Header>
         <Wrapper>
           <Route exact path="/" component={About} />
           <Route exact path="/about" component={About} />
@@ -25,4 +31,3 @@ function App() {
 }
 
 export default App;
-

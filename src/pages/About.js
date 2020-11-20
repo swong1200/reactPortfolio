@@ -1,5 +1,4 @@
 import React from "react";
-import Hero from "../components/Hero";
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
@@ -7,51 +6,40 @@ import Col from "../components/Col";
 function About() {
   return (
     <div>
-      <Hero backgroundImage="https://www.thoughtco.com/thmb/9-iCj7lj21Dd8zFGWnbiVzhi5n8=/1333x1000/smart/filters:no_upscale()/clouds-5b6b4e50c9e77c0050491212.jpg">
-        <h1>Stuart Wong</h1>
-      </Hero>
       <Container style={{ marginTop: 30 }}>
         <Row>
           <Col size="md-12">
-            <h1>Welcome To My Portfolio!</h1>
+            <h1>About Me</h1>
           </Col>
         </Row>
         <Row>
           <Col size="md-12">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquet diam tortor, id
-              consequat mauris ullamcorper eu. Orci varius natoque penatibus et magnis dis
-              parturient montes, nascetur ridiculus mus. Pellentesque et dui id justo finibus
-              sollicitudin at et metus. Ut feugiat tellus nec metus commodo, sed suscipit nisi
-              gravida. Duis eget vestibulum quam, ut porttitor sem. Donec sagittis mi sollicitudin
-              turpis semper, et interdum risus lobortis. Vestibulum suscipit nunc non egestas
-              tristique. Proin hendrerit efficitur malesuada. Mauris lorem urna, sodales accumsan
-              quam non, tristique tempor erat. Nullam non sem facilisis, tempus tortor sit amet,
-              volutpat nisl. Ut et turpis non nunc maximus mollis a vitae tortor. Pellentesque
-              mattis risus ac quam laoreet cursus. Praesent suscipit orci neque, vestibulum
-              tincidunt augue tincidunt non. Duis consequat mattis tortor vitae mattis.
+              I'm a Full Stack Developer with a Bachelor’s degree in psychology,
+              educated at UCLA. I recently earned a certificate in full stack
+              web development from UCLA Extension, with newly developed skills
+              in Javascript, JQuery, Node.js and React.js. Known as an extremely
+              hard worker fascinated by solving new problems, my aim is to
+              develop apps that are intuitive and user-friendly. I recently
+              worked with a team of four to develop an HTML5 game using a
+              physics engine in two weeks. Passionate about learning new skills,
+              my goal is to create innovative apps that push the boundaries of
+              the web development world. I’m excited to become a member of a
+              fast-paced, quality-driven team that can help me expand my
+              knowledge.
             </p>
             <p>
-              Phasellus at rutrum nisl. Praesent sed massa ut ipsum bibendum porttitor. Sed
-              malesuada molestie velit ac viverra. Quisque a ullamcorper purus. Curabitur luctus mi
-              ac mi hendrerit semper. Nulla tincidunt accumsan lobortis. Mauris convallis sapien non
-              nibh porta accumsan. Nunc volutpat tempus porttitor. Nunc congue dictum egestas.
-              Aliquam blandit mi eu urna scelerisque, vitae volutpat ligula ultricies. Maecenas vel
-              porta augue. Fusce mauris ex, dignissim et lacinia ut, tempus eget nibh.
+              Now, a little about myself: I was born in Los Angeles, CA and
+              still live here, in West LA. I live with my girlfriend and two
+              dogs. I am currently unemployed and training everyday to be a full-stack
+              web developer.
             </p>
             <p>
-              Etiam ut massa efficitur, gravida sapien non, condimentum sapien. Suspendisse massa
-              tortor, facilisis in neque sit amet, scelerisque elementum tortor. Nullam eget nibh
-              sit amet odio lobortis ullamcorper. Nulla bibendum magna nec sem pulvinar lobortis.
-              Mauris et imperdiet urna, vitae lobortis dui. Nunc elementum elit mi, non mattis enim
-              congue at. Proin mi lectus, ullamcorper id hendrerit eu, ultricies vitae lacus. Nunc
-              vehicula, erat eget laoreet condimentum, felis ante malesuada leo, nec efficitur diam
-              nisi eget nisi. Cras arcu lacus, tristique in bibendum vitae, elementum eget lorem.
-              Maecenas vestibulum volutpat orci eu pharetra. Praesent vel blandit ante, nec faucibus
-              libero. Sed ultrices lorem ex, eu facilisis libero convallis ac. Vivamus id dapibus
-              eros. Nullam tempor sem rhoncus porta semper. Proin bibendum vulputate nisl, fringilla
-              interdum elit pulvinar eu. Quisque vitae quam dapibus, vestibulum mauris quis, laoreet
-              massa.
+              My hobbies include sports like basketball and softball. I also
+              like outdoor activities like hiking and rock climbing. I currently
+              spend a lot of time indoors playing video games and practicing
+              coding during the quarantine. I cannot wait to get outside again
+              and go for a hike with my dogs!
             </p>
           </Col>
         </Row>
