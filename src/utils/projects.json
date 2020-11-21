@@ -3,42 +3,42 @@
     "id": 1,
     "name": "Password Generator",
     "github":
-      "https://github.com/swong1200/passwordGenerator",
+      "https://github.com/swong1200/passwordGenerator/",
     "href": "https://swong1200.github.io/passwordGenerator/"
   },
   {
     "id": 2,
     "name": "Work Day Scheduler",
     "github":
-      "https://github.com/swong1200/workDayScheduler",
+      "https://github.com/swong1200/workDayScheduler/",
     "href": "https://swong1200.github.io/workDayScheduler/"
   },
   {
     "id": 3,
     "name": "Artist Hop",
     "github":
-      "https://github.com/csbryant/ArtistHop",
+      "https://github.com/csbryant/ArtistHop/",
     "href": "https://csbryant.github.io/ArtistHop/"
   },
   {
     "id": 4,
     "name": "Note Taker",
     "github":
-      "https://github.com/swong1200/noteTaker",
+      "https://github.com/swong1200/noteTaker/",
     "href": "https://safe-escarpment-06303.herokuapp.com/"
   },
   {
     "id": 5,
     "name": "Burger App",
     "github":
-      "https://github.com/swong1200/burgerApp",
+      "https://github.com/swong1200/burgerApp/",
     "href": "https://mighty-sierra-72046.herokuapp.com/"
   },
   {
     "id": 6,
     "name": "PuckMan Chase",
     "github":
-      "https://github.com/JOCECODE/PucMan_Chase",
+      "https://github.com/JOCECODE/PucMan_Chase/",
     "href": "https://warm-sierra-45425.herokuapp.com/"
   }
 ]

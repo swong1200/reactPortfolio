@@ -27,6 +27,7 @@ function Portfolio() {
                 image={PassGen}
                 href={projects[0].href}
                 name={projects[0].name}
+                github={projects[0].github}
               />
             </Col>
             <Col size="md-4">
@@ -34,6 +35,7 @@ function Portfolio() {
                 image={Scheduler}
                 href={projects[1].href}
                 name={projects[1].name}
+                github={projects[1].github}
               />
             </Col>
             <Col size="md-4">
@@ -41,6 +43,7 @@ function Portfolio() {
                 image={ArtistHop}
                 href={projects[2].href}
                 name={projects[2].name}
+                github={projects[2].github}
               />
             </Col>
           </Row>
@@ -50,6 +53,7 @@ function Portfolio() {
                 image={NoteTaker}
                 href={projects[3].href}
                 name={projects[3].name}
+                github={projects[3].github}
               />
             </Col>
             <Col size="md-4">
@@ -57,6 +61,7 @@ function Portfolio() {
                 image={Burger}
                 href={projects[4].href}
                 name={projects[4].name}
+                github={projects[4].github}
               />
             </Col>
             <Col size="md-4">
@@ -64,6 +69,7 @@ function Portfolio() {
                 image={Puckman}
                 href={projects[5].href}
                 name={projects[5].name}
+                github={projects[5].github}
               />
             </Col>
           </Row>
