@@ -29,10 +29,9 @@ function About() {
               knowledge.
             </p>
             <p>
-              Now, a little about myself: I was born in Los Angeles, CA and
-              still live here, in West LA. I live with my girlfriend and two
-              dogs. I am currently unemployed and training everyday to be a full-stack
-              web developer.
+              I was born in Los Angeles, CA and still live here, in West LA. I
+              live with my girlfriend and two dogs. I am currently unemployed
+              and training everyday to be a full-stack web developer.
             </p>
             <p>
               My hobbies include sports like basketball and softball. I also

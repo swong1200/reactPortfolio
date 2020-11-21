@@ -3,14 +3,16 @@ import "./style.css";
 
 function Project(props) {
   return (
-    <div
-      className="card"
-      style={{
-        backgroundImage: props.image ? `url(${props.image})` : "none"
-      }}
-    >
-      {!props.image && <i className="fa fa-spinner fa-spin" aria-hidden="true" />}
-      
+    <div>
+      <a href={props.href}>
+        <div
+          className="project"
+          style={{
+            backgroundImage: props.image ? `url(${props.image})` : "none",
+          }}
+        ></div>
+      </a>
+      <a href={props.github}>{props.name}</a>
     </div>
   );
 }
