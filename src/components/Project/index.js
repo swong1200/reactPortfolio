@@ -1,5 +1,7 @@
 import React from "react";
 import "./style.css";
+import github from "../../images/github.png"
+import Row from "../Row";
 
 function Project(props) {
   return (
@@ -12,7 +14,11 @@ function Project(props) {
           }}
         ></div>
       </a>
-      <a href={props.github}>{props.name}</a>
+      <br></br>
+      <Row className="row">
+      <p>{props.name}</p>
+      <a href={props.github}><img className="image" src={github} alt={props.name}/></a>
+      </Row>
     </div>
   );
 }
