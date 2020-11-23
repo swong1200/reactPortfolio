@@ -9,7 +9,6 @@ import Wrapper from "./components/Wrapper";
 import Image from "./images/13602.jpg";
 import Header from "./components/Header";
 
-
 function App() {
   return (
     <Router>
@@ -19,8 +18,16 @@ function App() {
           <h1>Stuart Wong</h1>
         </Header>
         <Wrapper>
-          <Route exact path="https://swong1200.github.io/reactPortfolio/" component={About} />
-          <Route exact path="/about" component={About} />
+          <Route
+            exact
+            path="https://swong1200.github.io/reactPortfolio/"
+            component={About}
+          />
+          <Route
+            exact
+            path="https://swong1200.github.io/reactPortfolio"
+            component={About}
+          />
           <Route exact path="/portfolio" component={Portfolio} />
           <Route exact path="/contact" component={Contact} />
         </Wrapper>
