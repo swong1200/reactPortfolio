@@ -18,16 +18,7 @@ function App() {
           <h1>Stuart Wong</h1>
         </Header>
         <Wrapper>
-          <Route
-            exact
-            path="https://swong1200.github.io/reactPortfolio/"
-            component={About}
-          />
-          <Route
-            exact
-            path="https://swong1200.github.io/reactPortfolio"
-            component={About}
-          />
+          <Route exact path="/reactPortfolio/" component={About} />
           <Route exact path="/portfolio" component={Portfolio} />
           <Route exact path="/contact" component={Contact} />
         </Wrapper>
