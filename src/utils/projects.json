@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "name": "Password Generator",
+    "name": "NewsCycle",
     "github":
-      "https://github.com/swong1200/passwordGenerator/",
-    "href": "https://swong1200.github.io/passwordGenerator/"
+      "https://github.com/csbryant/NewsCycle/",
+    "href": "http://fathomless-scrubland-72060.herokuapp.com/"
   },
   {
     "id": 2,
@@ -15,14 +15,14 @@
   },
   {
     "id": 3,
-    "name": "Artist Hop",
+    "name": "Artist Hop: A web application designed to help the user discover new musical artists based upon artists they already know.  Search for a band/artist and then discover artists related to that search",
     "github":
       "https://github.com/csbryant/ArtistHop/",
     "href": "https://csbryant.github.io/ArtistHop/"
   },
   {
     "id": 4,
-    "name": "Note Taker",
+    "name": "Note Taker: A simple Notepad application that uses an array in a .json file to store notes.",
     "github":
       "https://github.com/swong1200/noteTaker/",
     "href": "https://safe-escarpment-06303.herokuapp.com/"
@@ -36,7 +36,7 @@
   },
   {
     "id": 6,
-    "name": "PuckMan Chase",
+    "name": "PuckMan Chase: A simple HTML game using a physics engine (Planck).  The object of the game is for the player to avoid the asteroids for as long as possible.",
     "github":
       "https://github.com/JOCECODE/PucMan_Chase/",
     "href": "https://warm-sierra-45425.herokuapp.com/"

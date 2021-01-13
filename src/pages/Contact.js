@@ -14,13 +14,25 @@ function Contact() {
         </Row>
         <Row>
           <Col size="md-12">
-          <p className="lead">(310) 913-0661</p>
-          <p className="lead">swong31@gmail.com</p>
-          <a className="lead" href="https://github.com/swong1200">Github</a>
-          <br />
-          <a className="lead" href="https://www.linkedin.com/in/stuart-wong-10255020">LinkedIn</a>
-          <br />
-          <a className="lead" href="https://docs.google.com/document/d/1lXd5YIjb3LpXZ9dp-CHPd3mue11AnwSjhtNE-UY8z2A/edit?usp=sharing">Resume</a>
+            <p className="lead">(310) 913-0661</p>
+            <p className="lead">swong31@gmail.com</p>
+            <a className="lead" href="https://github.com/swong1200">
+              Github
+            </a>
+            <br />
+            <a
+              className="lead"
+              href="https://www.linkedin.com/in/stuart-z-wong"
+            >
+              LinkedIn
+            </a>
+            <br />
+            <a
+              className="lead"
+              href="https://docs.google.com/document/d/1TvzF4M8IXvd4xp65dDF6go-hFIBEamvg2MOGfCWJEYk/edit?usp=sharing"
+            >
+              Resume
+            </a>
           </Col>
         </Row>
       </Container>

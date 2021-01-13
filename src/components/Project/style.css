@@ -1,28 +1,28 @@
 .project {
-    background-size: cover;
-    background-position: center;
-    background-clip: content-box;
-    border: 6px solid white;
-    height: 400px;
-    width: 350px;
-    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-    margin-top: 40px;
-  }
-  
-  .project .fa-spinner {
+  background-size: cover;
+  background-position: center;
+  background-clip: content-box;
+  border: 6px solid white;
+  height: 400px;
+  width: 600px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  margin-top: 40px;
+}
+
+/* .project .fa-spinner {
     font-size: 180px;
     position: absolute;
     left: 25%;
     top: 25%;
-  }
+  } */
 
-  .image {
-    width: 40px;
-    height: auto;
-    justify-self: start;
-  }
+.image {
+  width: 40px;
+  height: auto;
+  justify-self: start;
+}
 
-  .row {
-    display: flex;
-    justify-content: space-around;
-  }
+.row {
+  display: flex;
+  justify-content: space-around;
+}
