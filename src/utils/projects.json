@@ -1,21 +1,21 @@
 [
   {
     "id": 1,
-    "name": "NewsCycle",
+    "name": "NewsCycle: A news article app that allows the user to quickly cycle through articles.  The user can then read them, share them or save them for later.",
     "github":
       "https://github.com/csbryant/NewsCycle/",
     "href": "http://fathomless-scrubland-72060.herokuapp.com/"
   },
   {
     "id": 2,
-    "name": "Work Day Scheduler",
+    "name": "Work Day Scheduler: A calendar app that allows you to schedule hourly appointments during the current day.",
     "github":
       "https://github.com/swong1200/workDayScheduler/",
     "href": "https://swong1200.github.io/workDayScheduler/"
   },
   {
     "id": 3,
-    "name": "Artist Hop: A web application designed to help the user discover new musical artists based upon artists they already know.  Search for a band/artist and then discover artists related to that search",
+    "name": "Artist Hop: A web application designed to help the user discover new musical artists based upon artists they already know.  Search for a band/artist and then discover artists related to that search.",
     "github":
       "https://github.com/csbryant/ArtistHop/",
     "href": "https://csbryant.github.io/ArtistHop/"
@@ -29,7 +29,7 @@
   },
   {
     "id": 5,
-    "name": "Burger App",
+    "name": "Burger App: A simple MVC app that utilizes Handlebars.  The user can create a burger and then click to 'Eat it'.",
     "github":
       "https://github.com/swong1200/burgerApp/",
     "href": "https://mighty-sierra-72046.herokuapp.com/"
