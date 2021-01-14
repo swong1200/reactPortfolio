@@ -9,9 +9,9 @@ function Navbar() {
         <ul className="navbar-nav">
           <li className="nav-item">
             <Link
-              to="/reactPortfolio/"
+              to="/"
               className={
-                window.location.pathname === "/reactPortfolio/"
+                window.location.pathname === "/"
                   ? "nav-link active"
                   : "nav-link"
               }
