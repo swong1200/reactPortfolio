@@ -12,7 +12,7 @@ import Header from "./components/Header";
 function App() {
   return (
     <Router>
-      <div>
+      <div className="color">
         <Navbar />
         <Header backgroundImage={Image}>
           <h1>Stuart Wong</h1>

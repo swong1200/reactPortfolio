@@ -14,11 +14,13 @@ function Contact() {
         </Row>
         <Row>
           <Col size="md-12">
+            <br />
             <p className="lead">(310) 913-0661</p>
             <p className="lead">swong31@gmail.com</p>
             <a className="lead" href="https://github.com/swong1200">
               Github
             </a>
+            <br />
             <br />
             <a
               className="lead"
@@ -26,6 +28,7 @@ function Contact() {
             >
               LinkedIn
             </a>
+            <br />
             <br />
             <a
               className="lead"
