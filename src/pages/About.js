@@ -30,15 +30,17 @@ function About() {
             </p>
             <p>
               I was born in Los Angeles, CA and still live here, in West LA. I
-              live with my girlfriend and two dogs. I am currently unemployed
-              and learning to be a better full-stack web developer everyday.
+              live with my girlfriend and two dogs. I am currently seeking out
+              new opportunities and learning to be a better full-stack web
+              developer everyday.
             </p>
             <p>
               When I'm not designing or developing, I enjoy outdoor activities
               like hiking and rock climbing. I also enjoy sports like basketball
-              and softball. I currently spend a lot of time indoors playing
-              video games and practicing coding during the quarantine. I cannot
-              wait to get outside again and go for a hike with my dogs!
+              and softball. However, I currently spend a lot of time indoors
+              playing video games and improving my coding skills during the
+              quarantine. I cannot wait to get outside again and go for a hike
+              with my dogs!
             </p>
           </Col>
         </Row>

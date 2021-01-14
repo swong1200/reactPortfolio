@@ -1,7 +1,8 @@
 import React from "react";
 import "./style.css";
-import github from "../../images/github.png"
+import github from "../../images/github.png";
 import Row from "../Row";
+import Col from "../Col";
 
 function Project(props) {
   return (
@@ -15,9 +16,15 @@ function Project(props) {
         ></div>
       </a>
       <br></br>
-      <Row className="row">
-      <p>{props.name}</p>
-      <a href={props.github}><img className="image" src={github} alt={props.name}/></a>
+      <Row>
+        <Col size="md-6">
+          <p>{props.name}</p>
+        </Col>
+        <Col size="md-6">
+          <a href={props.github}>
+            <img className="image" src={github} alt={props.name} />
+          </a>
+        </Col>
       </Row>
     </div>
   );
